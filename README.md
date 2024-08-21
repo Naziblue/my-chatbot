@@ -2,12 +2,12 @@
 
 This project is a customizable AI assistant chatbot built using Node.js and OpenAI's API. It allows you to create a personal assistant that can respond to user queries based on instructions you provide during the training phase. The assistant is designed to answer questions in a specific domain (e.g., math) or according to your custom instructions.
 
-- [Features](##features) 
-- [Prerequisites](##Prerequisites)
-- [Installation](##Installation)
-- [Environment Variables](##Environment_variables)
-- [Training Your Assistant](##Training_Your_Assistant)
-- [Project Structure](##Project_Structure) 
+- [Features](#features) 
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Environment Variables](#environment-variables)
+- [Training Your Assistant](#training-your-assistant)
+- [Project Structure](#project-structure) 
 
 ## Features
 
